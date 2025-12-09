@@ -26,9 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- ![](./screenshot.jpg) -->
+![Completed Project Screenshot](./completed-project.png)
 
 ### Links
+
+[Live Site](https://s2i61m97o.github.io/news-homepage/)
 
 ## My process
 
