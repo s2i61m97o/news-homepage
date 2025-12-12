@@ -1,8 +1,8 @@
 const body = document.querySelector("body")
 const menuBtn = document.querySelector(".menu-button");
 const menu = document.querySelector(".menu");
-const menuIconOpen = document.querySelector(".menu-icon-open");
-const menuIconClose = document.querySelector(".menu-icon-close");
+const menuIconOpen = document.querySelector(".open");
+const menuIconClose = document.querySelector(".close");
 const backdropFilter = document.querySelector(".backdrop-filter");
 
 function toggleMenu() {
